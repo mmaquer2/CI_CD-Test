@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-test",
+  "version": "1.0.0",
+  "description": "- Circle CI , Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmaquer2/CI_CD-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmaquer2/CI_CD-Test/issues"
+  },
+  "homepage": "https://github.com/mmaquer2/CI_CD-Test#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
